@@ -7,6 +7,8 @@ this was made usign the Open core install guide.
 https://dortania.github.io/OpenCore-Install-Guide/
 
 the only thing you need is the recovery image it should be mac os lion.
+
+Make sure that you get the MBR on efi legacy setup 
  
 Orginal Specs: 
 CPU Model: Intel(R) Core(TM)2 Duo CPU T7800 @ 2.60GHz
