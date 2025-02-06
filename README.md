@@ -1,7 +1,13 @@
 # Inspiron-1515-EFI
 A maybe workign EFI for the dell inspiron 1525?
 
+You need the EFI and the BOOT, they both go on the root of the usb drive
 
+this was made usign the Open core install guide.
+https://dortania.github.io/OpenCore-Install-Guide/
+
+the only thing you need is the recovery image it should be mac os lion.
+ 
 Orginal Specs: 
 CPU Model: Intel(R) Core(TM)2 Duo CPU T7800 @ 2.60GHz
 GPU Model: Intel GMA X3100     Mobile GM965/GL960
